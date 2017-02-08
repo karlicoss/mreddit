@@ -1,0 +1,4 @@
+# https://www.reddit.com/prefs/apps
+CLIENT_ID = "<script app client id>"
+CLIENT_SECRET = "<script app secret>"
+USERNAME = "<your username>"
